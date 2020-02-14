@@ -1,0 +1,10 @@
+
+=== Wed Feb 12 21:11:01 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.ext.nunit@1.0.0
+  com.unity.package-manager-ui@2.2.0
